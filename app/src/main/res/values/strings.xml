@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Moovi</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="discover">Discover</string>
+    <string name="transition_name_details">details_image</string>
+    <string name="search_title">Search</string>
+</resources>
